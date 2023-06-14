@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AK4619VN")(type "KiCad")(uri "/home/tony/kicad/library/KiCAD/AK4619/AK4619VN.kicad_sym")(options "")(descr ""))
+)
